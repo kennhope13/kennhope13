@@ -1,24 +1,16 @@
 <div align="center">
 
 # **PHAM MINH TIEN**  
-*Computer Vision Engineer • Full-Stack Developer*
-
-[![GitHub followers](https://img.shields.io/github/followers/kennhope13?style=social)](https://github.com/kennhope13)
-![Profile views](https://komarev.com/ghpvc/?username=kennhope13&style=flat&color=blue)
-
-</div>
+*Computer Vision & Full-Stack Developer*
 
 ---
 
-### 🧠 About Me
-Passionate about **AI & Computer Vision** (Palm Vein Recognition, Object Detection). Experienced in building robust AI pipelines and full-stack web applications.
+### I develop high-performance Computer Vision solutions for edge devices and build seamless full-stack web applications. 
 
-### 🛠 Tech Stack
-- **AI / CV:** Python, PyTorch, OpenCV, Faster R-CNN, SSD-Lite, EfficientNet.
-- **Web:** Node.js, Express, React, TypeScript, Vite.
-- **Tools:** Git, Docker, VS Code, Google Colab.
+### My core strength is versatility: **I don't just specialize—I solve problems and I can build everything.**
 
-### 🚀 Selected Projects
-- **Palm Vein Recognition:** Research on vein patterns using Faster R-CNN (ResNet-50) & SSDLite (MobileNetV3).
-- **DATN (Graduation Thesis):** Complete end-to-end palm vein identification system.
-- **Full-Stack Apps:** Integrated web dashboards linking AI results with React/Node.js interfaces.
+---
+
+### 📧 Get in touch: [neit.pm.work@gmail.com](mailto:neit.pm.work@gmail.com)
+
+</div>
