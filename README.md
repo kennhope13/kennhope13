@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👁️‍🗨️ Hi, I'm **PHAM MINH TIEN**  
+# **PHAM MINH TIEN**  
 *Computer Vision Engineer • Full-Stack Developer*
 
 [![GitHub followers](https://img.shields.io/github/followers/kennhope13?style=social)](https://github.com/kennhope13)
