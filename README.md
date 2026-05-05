@@ -1,87 +1,36 @@
-<!-- PROFILE README OF kennhope13 -->
-
 <div align="center">
 
 # 👁️‍🗨️ Hi, I'm **PHAM MINH TIEN**  
-
-`Computer Vision • Deep Learning • Node.js`
+*Computer Vision Engineer • Full-Stack Developer*
 
 [![GitHub followers](https://img.shields.io/github/followers/kennhope13?style=social)](https://github.com/kennhope13)
-[![GitHub stars](https://img.shields.io/github/stars/kennhope13?style=social)](https://github.com/kennhope13?tab=repositories)
 ![Profile views](https://komarev.com/ghpvc/?username=kennhope13&style=flat&color=blue)
 
 </div>
 
 ---
 
-## 🧠 About me
+### 🧠 About Me
+Passionate about **AI & Computer Vision** (Palm Vein Recognition, Object Detection). Experienced in building robust AI pipelines and full-stack web applications.
 
-- Computer Vision & Deep Learning enthusiast  
-- Interested in **palm vein recognition**, **object detection**, and **image classification**  
-- Mainly work with **Python, PyTorch, OpenCV**, but also enjoy building **Node.js / React** web projects  
-- Looking for opportunities to apply AI/CV to real-world products
+### 🛠 Tech Stack
+- **AI / CV:** Python, PyTorch, OpenCV, Faster R-CNN, SSD-Lite, EfficientNet.
+- **Web:** Node.js, Express, React, TypeScript, Vite.
+- **Tools:** Git, Docker, VS Code, Google Colab.
 
----
-
-## 🛠 Tech Stack
-
-### 🔍 AI / Computer Vision
-
-- **Languages / Libs:** Python, NumPy, Pandas  
-- **Deep Learning:** PyTorch, TorchVision  
-- **CV:** OpenCV, data augmentation, preprocessing  
-- **Models:** CNNs, Transfer Learning, Faster R-CNN, SSDLite + MobileNetV3  
-- **Tools:** Colab, Kaggle, Matplotlib
-
-### 🌐 Web & Node.js
-
-- **Frontend:** HTML, CSS/SCSS, basic ReactJS  
-- **Backend:** Node.js, Express (REST APIs)  
-- **Other:** Git, GitHub, VS Code, npm
+### 🚀 Selected Projects
+- **Palm Vein Recognition:** Research on vein patterns using Faster R-CNN (ResNet-50) & SSDLite (MobileNetV3).
+- **DATN (Graduation Thesis):** Complete end-to-end palm vein identification system.
+- **Full-Stack Apps:** Integrated web dashboards linking AI results with React/Node.js interfaces.
 
 ---
-
-## 📌 Selected Projects
-
-- 🔹 **Palm-Vein-Recognition-FasterR-CNN-Resnet50, EfficientnetB0**  
-  Palm vein recognition using **Faster R-CNN + ResNet-50,EfficientnetB0** with custom preprocessing and training pipeline.
-
-- 🔹 **Palm-Vein-Recognition-SSDLite-MobilenetV3**  
-  Palm vein detection with **SSDLite + MobileNetV3** focusing on lighter and faster inference.
-
-- 🔹 **DATN-Palm-Veln**  
-  Graduation thesis project on palm vein recognition: from data processing to training and evaluation.
-
-- 🔹 **Dogs**  
-  Image classification project on dog images using deep learning models.
-
-- 🔹 **fullStack_nodejs_reactjs**  
-  Simple full-stack web project with **Node.js backend** and **ReactJS frontend**.
-
-- 🔹 **flip-kart**  
-  E-commerce style demo built with JavaScript/Node.js.
-
-> Check more in the **Repositories** tab.
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennhope13&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennhope13&layout=compact&hide_border=true)
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennhope13&show_icons=true&hide_border=true&count_private=true)
 
-</div>
-
----
-
-## 📫 Contact
-
-- Email: *pmtiena8tqtpy@gmail.com*  
-
-<div align="center">
-
-`Thanks for visiting my Computer Vision & Node.js world!` 🧠📷💻
+📫 **Contact:** [pmtiena8tqtpy@gmail.com](mailto:pmtiena8tqtpy@gmail.com)  
+*Building the bridge between AI research and real-world applications.*
 
 </div>
