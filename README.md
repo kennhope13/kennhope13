@@ -11,6 +11,6 @@
 
 ---
 
-### 📧 Get in touch: [neit.pm.work@gmail.com](mailto:neit.pm.work@gmail.com)
+### Get in touch: [neit.pm.work@gmail.com](mailto:neit.pm.work@gmail.com)
 
 </div>
